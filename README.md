@@ -1,1 +1,1 @@
-# HTML-CSS-template
+# HTML-CSS-template >> without responsive
